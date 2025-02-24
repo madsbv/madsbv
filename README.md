@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi! I'm Mads
+- I'm a mathematician who's realized that I find software development more interesting.
+- I currently mainly code in Rust and Go, with some Nix on the side for system administration.
+- I found Nix documentation time consuming to search through, so I built [nox](https://github.com/madsbv/nix-options-search) to allow me to quickly find what I'm looking for.
+- I'm working on a full-stack web project with Rust, [Axum](https://docs.rs/axum/latest/axum/) and [HTMX](https://htmx.org).
+- I'mm looking for a role either in backend web dev, or on any team whose work involves a combination of math and software. If you're hiring, please reach out!
 
 <!--
 **madsbv/madsbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
